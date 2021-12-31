@@ -1,0 +1,22 @@
+---
+title : "POC Tech Doc"
+linkTitle : "POC Tech Doc"
+
+---
+
+
+## Requisites for tech doc platform
+
+- enable "doc as code"
+- keep doc in git repo (enable pull requests, blame, ...)
+- use md, asciidoc, ...
+- distributable through CDN (e.g. Netlify)
+- easy pipeline (Repo --> Netlify --> Published)
+- do not use interim resources
+- integrate doc from code (e.g. openapi, c#, ...)
+
+## Pending
+
+- protect with corporate OAuth
+
+
