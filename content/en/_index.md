@@ -15,6 +15,7 @@ linkTitle : "POC Tech Doc"
 - do not use own resources (no need to configure/maintain anything)
 - integrate doc from code (e.g. openapi, c#, ...)
 - printer friendly
+- searchable
 
 ## Pending
 
