@@ -14,6 +14,7 @@ linkTitle : "POC Tech Doc"
 - easy pipeline (Repo --> Netlify --> Published)
 - do not use interim resources
 - integrate doc from code (e.g. openapi, c#, ...)
+- printer friendly
 
 ## Pending
 
