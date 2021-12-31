@@ -1,4 +1,4 @@
 [build]
-command = "echo 'Hola!!!';git submodule update --remote --merge;hugo;echo '...fin.';"
+command = "echo 'Inicio...';git submodule update --remote --merge;hugo;echo '...fin.';"
 [build.environment]
 HUGO_VERSION = "0.88.1"
