@@ -1,0 +1,3 @@
+[submodule "themes/docsy"]
+	path = content
+	url = https://github.com/miguelperezcolom/techdoc-poc-content
