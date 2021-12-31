@@ -1,4 +1,4 @@
 [build]
-command = "echo 'Hola!!!';cd content;pwd;git remote -v;git pull;cd ..;hugo;echo '...fin.';"
+command = "echo 'Hola!!!';cd content;pwd;git remote -v;git branch --set-upstream-to origin/main;git pull;cd ..;hugo;echo '...fin.';"
 [build.environment]
 HUGO_VERSION = "0.88.1"
