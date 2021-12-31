@@ -12,7 +12,7 @@ linkTitle : "POC Tech Doc"
 - use md, asciidoc, ...
 - distributable through CDN (e.g. Netlify)
 - easy pipeline (Repo --> Netlify --> Published)
-- do not use interim resources
+- do not use own resources (no need to configure/maintain anything)
 - integrate doc from code (e.g. openapi, c#, ...)
 - printer friendly
 
