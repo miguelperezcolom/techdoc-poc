@@ -11,7 +11,7 @@ linkTitle : "POC Tech Doc"
 - keep doc in git repo (enable pull requests, blame, ...)
 - use md, asciidoc, ...
 - distributable through CDN (e.g. Netlify)
-- easy pipeline (Repo --> Netlify --> Published)
+- easy CI/CD (Repo --> Netlify --> Published)
 - do not use own resources (no need to configure/maintain anything)
 - integrate doc from code (e.g. openapi, c#, ...)
 - printer friendly
