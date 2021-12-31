@@ -1,4 +1,4 @@
 [build]
-command = "echo 'Hola!!!!'"
+command = "echo 'Hola!!!';cd content;git submodule update -f --init;cd ..;hugo;echo '...fin.';"
 [build.environment]
 HUGO_VERSION = "0.88.1"
