@@ -18,5 +18,6 @@ linkTitle : "POC Tech Doc"
 ## Pending
 
 - protect with corporate OAuth
+- include content folder as a git submodule
 
 
